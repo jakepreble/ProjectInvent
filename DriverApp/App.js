@@ -8,10 +8,6 @@ import {
   DrawerItemList,
   DrawerItem,
 } from '@react-navigation/drawer';
-class app extends Component{
-  
-}
-
 
 
 function Home({ navigation }) {
